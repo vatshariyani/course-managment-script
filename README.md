@@ -12,6 +12,8 @@ sudo ./build.sh
 
 python3 Register.py
 
+***Description:***
+
 12th std. Python code for institute course enrollment managment.
 
 Output (Screenshots):-
