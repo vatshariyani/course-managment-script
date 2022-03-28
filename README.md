@@ -2,8 +2,7 @@
 
 ***Note: This code is just for debian linux distros
 Bugs disclosure are always welcomed.
-If anyone wants this same thing for windows they can contact me via mail. 
-***
+If anyone wants this same thing for windows they can contact me via mail.***
 
 ***Installation:***
 
