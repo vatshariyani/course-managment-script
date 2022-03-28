@@ -1,4 +1,12 @@
 # Course-Managment-code
+
+***Note: this code is just for debian linux distros***
+***Installation:***
+git clone https://github.com/vatshariyani/course-managment-script.git
+cd course-managment-script
+sudo ./build.sh
+python3 Register.py
+
 12th std. Python code for institute course enrollment managment.
 
 Output (Screenshots):-
