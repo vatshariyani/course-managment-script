@@ -1,6 +1,9 @@
 # Course-Managment-code
 
-***Note: this code is just for debian linux distros***
+***Note: This code is just for debian linux distros
+Bugs disclosure are always welcomed.
+If anyone wants this same thing for windows they can contact me via mail. 
+***
 
 ***Installation:***
 
@@ -14,7 +17,7 @@ python3 Register.py
 
 ***Description:***
 
-12th std. Python code for institute course enrollment managment.
+Python code for institute course enrollment managment.
 
 Output (Screenshots):-
 1.	Enrolling For a Course :-
