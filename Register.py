@@ -19,7 +19,6 @@ c1.execute('create database if not exists cims')
 print ('Database Created')
 
 # Creating a table
-import mysql.connector as sql 
 conn = sql.connect(host ='localhost', user = user, password = password, database='cims')
 if conn.is_connected():
   print("Successfully Connected")
@@ -28,7 +27,6 @@ c1.execute('create table if not exists cand_details(adm_no int primary key, cand
 print ('Table created')
 
 #Creating main menu and other functionalities
-import mysql.connector as sql 
 conn = sql.connect(host = 'localhost', user = user, password = password, database = 'cims')
 if conn.is_connected():
     print("Successfully Connected")
